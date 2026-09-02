@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.1/app-release-v1.1.apk",
-  "notes": "إضافة بوصلة القبلة مع تحديد الموقع واتجاه الكعبة، وتحسينات عامة في التطبيق."
+  "versionCode": 12,
+  "versionName": "1.2",
+  "downloadUrl": "https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.2/app-release-v1.2.apk",
+  "notes": "تحديث واجهة التطبيق وإضافة بطاقة مواقيت الصلاة وجلب المواقيت حسب موقع المستخدم."
 }
