@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.2/app-release-v1.2.apk",
-  "notes": "تحديث واجهة التطبيق وإضافة بطاقة مواقيت الصلاة وجلب المواقيت حسب موقع المستخدم."
+  "versionCode": 14,
+  "versionName": "1.4",
+  "downloadUrl": "https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.4/app-release.apk",
+  "notes": "تحسين دقة بوصلة القبلة، تصحيح الانحراف المغناطيسي، وتحسين قراءة اتجاه الهاتف."
 }
